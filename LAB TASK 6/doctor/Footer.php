@@ -1,0 +1,1 @@
+<?php echo "<b>&copy;" . date("Y") . " Hospital Management System </b>" ?>
